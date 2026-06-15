@@ -1,3 +1,5 @@
+
+#Bill Splitter
 amount = float(input("Enter the total bill: "))
 friend = int(input("Enter the number of friends: "))
 
