@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "python.linting.enabled": false,
+  "python.terminal.autoActivateEnvironmentInTerminal": false
+}
